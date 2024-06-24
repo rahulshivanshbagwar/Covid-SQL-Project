@@ -1,7 +1,6 @@
 # COVID-19 Data Analysis
 
 
-
 ## Problem Statement
 
 This repository contains SQL queries and analysis related to COVID-19 cases, deaths, and vaccinations. The data is sourced from the Covid_Portfolio_Project database. This project aims to give intricate details about how Covid affected the world and how it affected various countries.
